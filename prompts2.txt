@@ -1,0 +1,23 @@
+
+####
+
+can you add the following features:
+
+- Create a network map showing the connections between attacking machines and the target server. Use lines or arrows representing traffic flows, which intensify (become thicker or change color) as the attack progresses.
+- When a machine is blocked, animate the line turning red or fading out to indicate a loss of connection.
+- Implement a progress bar or timeline showing the stages of the attack: initiation, traffic overload, blocking of machines, and IP switching. The students can see how the server gets overwhelmed and how the machines "recover" by changing IPs.
+- You could make this more engaging with sound effects (e.g., a "beep" when a machine gets blocked or successfully reconnects).
+- Server Monitoring: can you add resource monitoring using psutil to show CPU or memory usage on the server.
+
+#####
+
+can you add the following:
+
+Real-time Server Monitoring:
+Display real-time server resource graphs (CPU, memory, bandwidth usage) to show how the server is affected by the attack. These graphs could be simple line charts that update every second, providing a more realistic view of what happens when a DDoS attack hits.
+Tools: Use psutil to track resource usage and display it in a PyQt graph
+
+
+#####
+
+

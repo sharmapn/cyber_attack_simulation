@@ -1,0 +1,38 @@
+
+###########
+
+this attack and defence simulation is for a university open day to show to students. can you write a storyline for this whoch i can use to explain to students as to what is ging on. keep it to  less than 4 minutes.
+
+
+#############
+
+
+Storyline for the DDoS Attack and Defense Simulation
+Welcome to our DDoS attack and defense simulation! Today, I'll walk you through what's happening in a cyber-attack scenario in real time.
+
+1. Introduction to DDoS: We’re simulating a Distributed Denial-of-Service (DDoS) attack. In a DDoS, multiple machines flood a server with fake requests, overwhelming it so it can’t respond to legitimate users. Imagine hundreds of people trying to walk through a single door at the same time – no one gets through!
+
+2. The Attack Begins:
+
+On the screen, you see many machines attacking a target server. Each machine is sending a huge number of requests to try and take down the server. The colored lines connecting them show this traffic flow.
+As more traffic hits the server, you’ll see the lines intensify, meaning the attack is getting stronger.
+Our goal here is to overload the server and make it unresponsive.
+3. Real-Time Server Monitoring:
+
+On the right side, we have CPU, memory, and bandwidth usage graphs. These show how the attack impacts the server.
+CPU Usage: The higher the graph, the more the server is struggling to handle all these requests.
+Memory Usage: This shows how much memory the server is using to process the traffic.
+Bandwidth Usage: This represents how much data the server is receiving.
+4. Defense and IP Switching:
+
+Eventually, the server identifies some of the machines as attackers and blocks them. You’ll see their lines turn red, indicating that they’ve been shut out.
+But the attack isn’t over! The blocked machines quickly change their IP addresses and rejoin the attack, trying to bypass the defenses.
+As students, your job would be to configure defenses that adjust and adapt faster than the attackers.
+5. Progression of the Attack:
+
+You’ll also notice the progress bar at the bottom, showing how the attack evolves. It starts slowly but quickly escalates until the server is overwhelmed.
+The attack is dynamic – machines are blocked, recover, and new waves of traffic keep hitting the server.
+6. Wrap-up:
+
+This simulation gives you a hands-on understanding of how DDoS attacks work and how servers try to defend themselves.
+Cybersecurity experts need to stay one step ahead of attackers, using tools and strategies to protect critical systems.
